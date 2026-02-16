@@ -1,0 +1,53 @@
+{
+  "positive": {
+    "kubernetes": 3,
+    "terraform": 3,
+    "infrastructure as code": 3,
+    "iac": 2,
+    "ci/cd": 2,
+    "gitops": 2,
+    "docker": 2,
+    "linux": 1,
+    "automation": 1,
+    "ansible": 1,
+    "configuration management": 1,
+    "observability": 2,
+    "prometheus": 2,
+    "grafana": 1,
+    "otel": 2,
+    "open telemetry": 2,
+    "sre": 2,
+    "platform": 2,
+    "aws": 2,
+    "gcp": 2,
+    "mlops": 4,
+    "llm": 3,
+    "machine learning": 2,
+    "model deployment": 3,
+    "gpu": 2,
+    "cuda": 2,
+    "ray": 2,
+    "airflow": 2,
+    "kubeflow": 3,
+    "vector database": 2,
+    "rag": 2
+  },
+  "negative": {
+    "helpdesk": -6,
+    "desktop support": -6,
+    "it support": -5,
+    "msp": -3,
+    "commission": -8,
+    "100% commission": -10,
+    "insurance": -8,
+    "crypto": -4,
+    "door-to-door": -10,
+    "unpaid": -10,
+    "volunteer": -8
+  },
+  "thresholds": {
+    "review_min_score": 3,
+    "priority_min_score": 7
+  }
+}
+
